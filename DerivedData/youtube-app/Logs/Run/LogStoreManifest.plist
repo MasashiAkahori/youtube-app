@@ -5,6 +5,41 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>2C31C596-C401-4A4B-9777-331A2A2C0EFC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2C31C596-C401-4A4B-9777-331A2A2C0EFC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>youtube-app project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>youtube-app</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run youtube-app</string>
+			<key>timeStartedRecording</key>
+			<real>613415272.74190497</real>
+			<key>timeStoppedRecording</key>
+			<real>613415397.46144497</real>
+			<key>title</key>
+			<string>Run youtube-app</string>
+			<key>uniqueIdentifier</key>
+			<string>2C31C596-C401-4A4B-9777-331A2A2C0EFC</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
